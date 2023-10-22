@@ -1,5 +1,5 @@
 def multiplicar_Matrizes(A,B):
-
+    '''retorna a multiplicação entre duas matrizes da forma [[0,0,0],[0,0,0]...]'''
     num_linhasA, num_colunasA = len(A), len(A[0])
     num_linhasB, num_colunasB = len(B), len(B[0])
 
