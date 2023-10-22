@@ -1,3 +1,4 @@
+#esse código recebe uma quantidade de salários e retorna qual deles é o maior.
 print("Quantos salários deseja conferir?")
 numsal = int(input())
 
