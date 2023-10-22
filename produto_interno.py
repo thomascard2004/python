@@ -1,4 +1,6 @@
 def produto_interno():
+    '''retorna o produto interno de dois vetores de mesmo tamanho.'''
+#trocando o comentários pela linha de código logo acima dos respectivos, o função pode retornar uma lista com o produto dos números nas mesmas posições.
 
     produtointerno = 0
     #produtointerno = []
